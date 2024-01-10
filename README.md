@@ -1,0 +1,1 @@
+I learned that the older versions of Unity might not work well with the XR interactions tool kit and the XR rig, so I eventually elected to use the latest versions. Through working on this assignment, I also learned how to build an environment, use layer masks, the XR rig, the structure of creating an XR interaction, etc.
